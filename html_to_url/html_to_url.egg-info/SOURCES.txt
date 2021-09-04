@@ -1,7 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
-setup.cfg
+setup.py
 html_to_url/html_to_url.egg-info/PKG-INFO
 html_to_url/html_to_url.egg-info/SOURCES.txt
 html_to_url/html_to_url.egg-info/dependency_links.txt

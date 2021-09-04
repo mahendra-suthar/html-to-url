@@ -17,7 +17,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "src"},
+    package_dir={"": "html_to_url"},
     packages=setuptools.find_packages(where="html_to_url"),
     python_requires=">=3.6",
 )
