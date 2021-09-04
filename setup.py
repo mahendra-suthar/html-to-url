@@ -1,13 +1,13 @@
 import setuptools
 
 setuptools.setup(
-    name="html-to-url",
+    name="html_to_zip",
     version=0.1,
     author="Mahendra kumar",
     author_email="mksuthar9016@gmail.com",
     description="Convert your html, css and js code into project",
     long_description="this is desc",
-    long_description_content_type="application/zip",
+    long_description_content_type="text/markdown",
     url="https://github.com/mahendra-suthar/html-to-url",
     project_urls={
         "Bug Tracker": "https://github.com/mahendra-suthar/html-to-url/issues"
