@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="html_to_zip",
+    name="htmlToZip",
     version=0.1,
     author="Mahendra kumar",
     author_email="mksuthar9016@gmail.com",
